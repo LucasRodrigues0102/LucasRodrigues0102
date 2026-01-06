@@ -5,5 +5,5 @@ Sou um jovem apaixonado por tecnologia que ama as áreas de programação e dese
 Abaixo estão as tecnologias que eu mais tenho afinidade e busco melhorar/trabalhar com:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cs,java,python,html,css,js,github,nodejs" />
+  <img src="https://skillicons.dev/icons?i=c,cs,java,python,mysql,mongodb,html,css,js,github,nodejs" />
 </p>
